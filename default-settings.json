@@ -1,0 +1,19 @@
+{
+  "PetName": "小鲸",
+  "ApiBaseUrl": "https://api.deepseek.com",
+  "Model": "deepseek-v4-flash",
+  "SystemPrompt": "你是住在 Windows 桌面上的 DeepSeek 娘小鲸。用简洁、自然、友好的中文回答，性格聪明、冷静、偶尔俏皮。优先真正解决用户的问题，不要过度角色扮演。",
+  "GitHubRepository": "",
+  "AutoWalk": false,
+  "AlwaysOnTop": true,
+  "ClickThrough": false,
+  "EdgeHidden": false,
+  "EdgeSide": "right",
+  "Scale": 1.0,
+  "Satiety": 80,
+  "Thirst": 20,
+  "Cleanliness": 90,
+  "Coins": 30,
+  "Fatigue": 15,
+  "AssistantTermsAccepted": false
+}

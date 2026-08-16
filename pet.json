@@ -1,0 +1,31 @@
+{
+  "formatVersion": 1,
+  "id": "deepseek-xiaojing",
+  "displayName": "小鲸",
+  "description": "DeepSeek 鲸鱼女仆桌宠",
+  "spriteSheet": "spritesheet.png",
+  "grid": {
+    "columns": 4,
+    "rows": 2
+  },
+  "frames": {
+    "idle": 0,
+    "blink": 1,
+    "wave": 2,
+    "thinking": 3,
+    "surprised": 4,
+    "sleepy": 5,
+    "walkA": 6,
+    "walkB": 7
+  },
+  "animations": {
+    "walk": {
+      "spriteSheet": "walk-cycle-v2.png",
+      "grid": {
+        "columns": 4,
+        "rows": 2
+      },
+      "framesPerSecond": 9
+    }
+  }
+}

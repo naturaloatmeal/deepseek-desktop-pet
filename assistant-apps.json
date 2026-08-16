@@ -1,0 +1,23 @@
+{
+  "SchemaVersion": 1,
+  "Apps": [
+    {
+      "Id": "windows-notepad",
+      "Name": "记事本",
+      "ExecutablePath": "%WINDIR%\\System32\\notepad.exe",
+      "Aliases": ["文本编辑器", "notepad"]
+    },
+    {
+      "Id": "windows-calculator",
+      "Name": "计算器",
+      "ExecutablePath": "%WINDIR%\\System32\\calc.exe",
+      "Aliases": ["calc"]
+    },
+    {
+      "Id": "windows-explorer",
+      "Name": "文件资源管理器",
+      "ExecutablePath": "%WINDIR%\\explorer.exe",
+      "Aliases": ["资源管理器", "文件管理器", "explorer"]
+    }
+  ]
+}
