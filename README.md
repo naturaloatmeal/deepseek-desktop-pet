@@ -1,13 +1,6 @@
 # DeepSeek 鲸鱼娘桌宠 · 小鲸
 
 <p align="center">
-  <img src="Assets/Characters/XiaoJing/spritesheet.png" width="760" alt="小鲸八动作透明图集预览">
-</p>
-<p align="center">
-  <img src="Assets/Characters/XiaoJing/walk-cycle-v2.png" width="760" alt="小鲸八帧连续步态图集预览">
-</p>
-
-<p align="center">
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Windows%2011-0078D4?logo=windows11">
   <img alt="Framework" src="https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet">
   <img alt="UI" src="https://img.shields.io/badge/UI-WPF-1677FF">
