@@ -1,4 +1,4 @@
-# DeepSeek 鲸鱼娘桌宠 · 小鲸
+# DeepSeek 同人鲸鱼娘桌宠 · 小鲸
 
 <p align="center">
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Windows%2011-0078D4?logo=windows11">
@@ -8,7 +8,7 @@
   <img alt="Status" src="https://img.shields.io/badge/status-stable-2EA44F">
 </p>
 
-一只生活在 Windows 11 桌面上的 DeepSeek 鲸鱼女仆桌宠。小鲸不仅会待机、散步、眨眼、互动和聊天，还拥有照顾、经济、疲惫、外出打工、主控台、安全应用启动助手、贴边隐藏和 GitHub 更新能力。
+一只生活在 Windows 11 桌面上的 DeepSeek 同人鲸鱼女仆桌宠。小鲸不仅会待机、散步、眨眼、互动和聊天，还拥有照顾、经济、疲惫、外出打工、主控台、安全应用启动助手、贴边隐藏和 GitHub 更新能力。
 
 项目使用原生 WPF 与 .NET 8 开发，采用文件夹式部署：`DeepSeek桌宠.exe` 只是启动入口，程序 DLL、角色图集、角色描述、默认配置和法律说明均作为外部文件保留，便于维护、替换、审计和更新。
 
